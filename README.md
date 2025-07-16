@@ -16,13 +16,13 @@
 
 ## Screenshots
  
-![Home](./screenshots/screenshot1.png)
+![Home](./images/screenshot1.png)
 
-![Course Page](./screenshots/screenshot2.png)
+![Course Page](./images/screenshot2.png)
 
-![Start Course](./screenshots/screenshot3.png)
+![Start Course](./images/screenshot3.png)
 
-![Categories](./screenshots/screenshot4.png)
+![Categories](./images/screenshot4.png)
 
 ---
 
