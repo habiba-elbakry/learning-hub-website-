@@ -16,7 +16,7 @@
 
 ## Screenshots
  
-![Home](./images/screenshot1.png)
+![Home](./images/Screenshot1.png)
 
 ![Course Page](./images/screenshot2.png)
 
