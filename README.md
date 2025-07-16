@@ -18,11 +18,11 @@
  
 ![Home](./images/Screenshot1.png)
 
-![Course Page](./images/screenshot2.png)
+![Course Page](./images/Screenshot2.png)
 
-![Start Course](./images/screenshot3.png)
+![Start Course](./images/Screenshot3.png)
 
-![Categories](./images/screenshot4.png)
+![Categories](./images/Screenshot4.png)
 
 ---
 
